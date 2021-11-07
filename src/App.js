@@ -54,15 +54,3 @@ function App() {
 }
 
 export default App;
-
-{
-  /* <input
-          onSubmit={handleChange}
-          type="text"
-          className={s.input}
-          onChange={handleChange}
-        />
-        <button onClick={addTodo} className={s.button}>
-          Добавить
-        </button> */
-}
